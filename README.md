@@ -4,6 +4,6 @@
 All code written by Arduino IDE using Arduino core for ESP8266 WiFi chip [Core](https://github.com/esp8266/Arduino)
 
 
-Format: ![Alt Text](https://habrastorage.org/webt/5b/3d/mv/5b3dmvnnppashyzo2100dc_wjsm.png)
+![Alt Text](https://habrastorage.org/webt/5b/3d/mv/5b3dmvnnppashyzo2100dc_wjsm.png)
 
 
