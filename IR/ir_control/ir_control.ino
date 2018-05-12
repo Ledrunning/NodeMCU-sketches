@@ -5,13 +5,14 @@
 #include <IRrecv.h>
 #include <IRutils.h>
 
-// An IR detector/demodulator is connected to GPIO pin 14(D5 on a NodeMCU
-// board).
-// Code for NEC protocol, IR RC Eurosky
-// 202807F - 1
-// 20240BF - 2
-// 202C03F - 3
-// 20250AF - OFF
+/* An IR detector/demodulator is connected to GPIO pin 14(D5 on a NodeMCU
+/ board).
+/ Code for NEC protocol, IR RC Eurosky
+/ 202807F - 1
+/ 20240BF - 2
+/ 202C03F - 3
+/ 20250AF - OFF
+*/
 
 #define FIRST_LED 12
 #define SECOND_LED 13
@@ -66,6 +67,7 @@ void translateIR()
     
       case 0x202C03F:  
         Serial.println(" 3            "); 
+        // Do something...
         break;
         
       case 0x20250AF: 
