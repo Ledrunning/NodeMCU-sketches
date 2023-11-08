@@ -1,6 +1,6 @@
 # NodeMCU Sketches
 
-![NodeMCU](https://www.espressif.com/en/products/socs/esp8266)
+### About ESP8266 (https://www.espressif.com/en/products/socs/esp8266)
 
 This repository contains a collection of sketches for the NodeMCU (ESP8266) platform. These sketches demonstrate various features and capabilities of the NodeMCU and can serve as a starting point for your IoT projects.
 
