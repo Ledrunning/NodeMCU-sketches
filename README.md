@@ -1,7 +1,19 @@
-# NodeMCU-sketches
-## Simple examples for DHT11-22, BMP180, HC-SR04, HC-SR501, PWM.
-### Full description you be able to find on my blog [Article](https://ledrunning.wordpress.com/2018/05/07/coding-nodemcu/)
-All code written by Arduino IDE using Arduino core for ESP8266 WiFi chip [Core](https://github.com/esp8266/Arduino)
+# NodeMCU Sketches
+
+![NodeMCU](https://www.espressif.com/sites/default/files/2019-04/esp-8266-wifi-image.jpg)
+
+This repository contains a collection of sketches for the NodeMCU (ESP8266) platform. These sketches demonstrate various features and capabilities of the NodeMCU and can serve as a starting point for your IoT projects.
+
+## Table of Contents
+
+## Getting Started
+
+To get started with these NodeMCU sketches, follow these steps:
+
+1. **Clone the Repository:**
+
+   ```bash
+   git clone https://github.com/Ledrunning/NodeMCU-sketches.git
 
 
 ![Alt Text](https://habrastorage.org/webt/5b/3d/mv/5b3dmvnnppashyzo2100dc_wjsm.png)
